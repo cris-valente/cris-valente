@@ -1,4 +1,4 @@
-![Header](./cris-github-header-image.png)
+![Header](./cris2-github-header-image)
 
 <!--
 **cris-valente/cris-valente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
