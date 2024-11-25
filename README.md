@@ -12,5 +12,3 @@ Hey everyone! Let's work together and create amazing apps!
 - 🤔 I’m looking for help with finding a internship to validate my studies and enter professional market.
 - 📫 [Reach me on LinkedIn](https://www.linkedin.com/in/cristiano-valente/)
 - ⚡ Fun fact: I speak four languages and I lived in four different countries. 
-
-g
